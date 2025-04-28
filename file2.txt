@@ -1,1 +1,6 @@
 Repository ini dibuat untuk memenuhi tuntutan assignment kelas TUT dari mata kuliah Software Engineering
+
+Info Lengkap
+Kelas: TUT01
+Mata Kuliah: Software Engineering
+Tanggal: 28 April 2025
