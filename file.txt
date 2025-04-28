@@ -5,3 +5,12 @@ Class: TUT01
 
 Current Semester: 4
 Minor: Creative Digital Storytelling
+
+Courses:
+Software Engineering
+Computational Biology
+Research Methodology in Computer Science
+Visual Storytelling
+Approaches in Multimodal Storytelling
+Storytelling for Business
+Anime and Manga as Storytelling
